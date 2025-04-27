@@ -63,11 +63,11 @@ body {
 
 /* Hero Section */
 .hero {
-  background-image: url('https://images.unsplash.com/photo-1523475496153-3d6cc70552bb?w=1200');
+  background-image: url('https://images.unsplash.com/photo-1591012911207-7f8cf0a5d626?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIxfHxzaG9wcGluZ3xlbnwwfHx8fDE2ODAzNDQ1NTA&ixlib=rb-4.0.3&q=80&w=1200');
   background-size: cover;
   background-position: center;
   color: #fff;
-  padding: 60px 20px;
+  padding: 80px 20px;
   text-align: center;
 }
 
